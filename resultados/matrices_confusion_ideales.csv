@@ -1,0 +1,4 @@
+architecture,true_negative,false_positive,false_negative,true_positive,total_predictions
+TTN,222,28,38,212,500
+MERA,238,12,19,231,500
+QCNN,223,27,42,208,500

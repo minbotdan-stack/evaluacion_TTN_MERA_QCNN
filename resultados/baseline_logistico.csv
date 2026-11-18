@@ -1,0 +1,6 @@
+fold,model,train_samples,test_samples,features,feature_scale,C,max_iter,iterations,training_time_seconds,test_accuracy,test_f1,test_precision,test_recall,test_specificity,true_negative,false_positive,false_negative,true_positive
+1,LogisticRegression,64,20,4,angulos_ry,1.0,1000,9,0.0056300670257769525,0.95,0.9523809523809523,0.9090909090909091,1.0,0.9,9,1,0,10
+2,LogisticRegression,64,20,4,angulos_ry,1.0,1000,9,0.0013019139878451824,1.0,1.0,1.0,1.0,1.0,10,0,0,10
+3,LogisticRegression,64,20,4,angulos_ry,1.0,1000,10,0.0015236539766192436,0.85,0.8421052631578947,0.8888888888888888,0.8,0.9,9,1,2,8
+4,LogisticRegression,64,20,4,angulos_ry,1.0,1000,9,0.0013297440018504858,0.9,0.8888888888888888,1.0,0.8,1.0,10,0,2,8
+5,LogisticRegression,64,20,4,angulos_ry,1.0,1000,10,0.0014222800091374665,1.0,1.0,1.0,1.0,1.0,10,0,0,10

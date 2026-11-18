@@ -1,0 +1,15 @@
+metric,test,comparison,statistic,p_value,p_adjusted_holm,significant_alpha_0_05
+test_accuracy,Friedman,Cuatro modelos,5.045454545454543,0.16849883735509608,,False
+test_accuracy,Wilcoxon,TTN vs MERA,1.0,0.125,0.75,False
+test_accuracy,Wilcoxon,TTN vs QCNN,6.5,0.875,1.0,False
+test_accuracy,Wilcoxon,TTN vs Regresion_logistica,1.0,0.125,0.75,False
+test_accuracy,Wilcoxon,MERA vs QCNN,0.0,0.125,0.75,False
+test_accuracy,Wilcoxon,MERA vs Regresion_logistica,1.0,1.0,1.0,False
+test_accuracy,Wilcoxon,QCNN vs Regresion_logistica,2.0,0.375,1.0,False
+test_f1,Friedman,Cuatro modelos,5.045454545454543,0.16849883735509608,,False
+test_f1,Wilcoxon,TTN vs MERA,1.0,0.125,0.75,False
+test_f1,Wilcoxon,TTN vs QCNN,6.0,0.8125,1.0,False
+test_f1,Wilcoxon,TTN vs Regresion_logistica,1.0,0.125,0.75,False
+test_f1,Wilcoxon,MERA vs QCNN,0.0,0.125,0.75,False
+test_f1,Wilcoxon,MERA vs Regresion_logistica,1.0,1.0,1.0,False
+test_f1,Wilcoxon,QCNN vs Regresion_logistica,2.0,0.375,1.0,False

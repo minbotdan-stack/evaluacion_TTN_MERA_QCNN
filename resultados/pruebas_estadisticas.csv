@@ -1,0 +1,9 @@
+metric,test,comparison,statistic,p_value,p_adjusted_holm,significant_alpha_0_05
+test_accuracy,Friedman,TTN vs MERA vs QCNN,3.8947368421052664,0.14264897010923255,,False
+test_accuracy,Wilcoxon,TTN vs MERA,1.0,0.125,0.375,False
+test_accuracy,Wilcoxon,TTN vs QCNN,6.5,0.875,0.875,False
+test_accuracy,Wilcoxon,MERA vs QCNN,0.0,0.125,0.375,False
+test_f1,Friedman,TTN vs MERA vs QCNN,3.8947368421052664,0.14264897010923255,,False
+test_f1,Wilcoxon,TTN vs MERA,1.0,0.125,0.375,False
+test_f1,Wilcoxon,TTN vs QCNN,6.0,0.8125,0.8125,False
+test_f1,Wilcoxon,MERA vs QCNN,0.0,0.125,0.375,False
